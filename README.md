@@ -1,8 +1,5 @@
 # Website Name: Asia Wonders
 ### Website live link: https://assignment-10-7362a.web.app/
-### Github client site code Link: https://github.com/programming-hero-web-course-4/B9A10-client-side-juyel66
-### Github Server site code Link: https://github.com/programming-hero-web-course-4/b9a10-server-side-juyel66
-
 
 ## Introduction
 ### Welcome to Asia Wonders, your ultimate guide to exploring the stunning tourist spots across Asia! Whether you're seeking pristine beaches, ancient temples, lush jungles, or bustling cities, Asia has something to offer for every traveler.
