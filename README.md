@@ -13,27 +13,37 @@
 - **Contact Us**: Reach out to us for inquiries, feedback, or collaboration opportunities.
 - **Google Map**: I have used google map on my website so that my user can easily visit the place of his choice
 - If you want to know more details about our website then you can contact our meet our team below.
- 
 
-## Category Sections
-### Bangladesh Tourist Spots
-Explore the enchanting tourist spots of Bangladesh, including serene rivers, ancient mosques, lush tea gardens, and vibrant bazaars.
+ ## Feature 
+ - data saving
+ - Data deletinig
 
-### Thailand Tourist Spots
-Discover the vibrant culture and stunning landscapes of Thailand, from the bustling streets of Bangkok to the tranquil beaches of Phuket and the historic temples of Chiang Mai.
-
-### Cambodia Tourist Spots
-Experience the awe-inspiring ancient ruins of Angkor Wat, the charming riverside town of Kampot, and the picturesque beaches of Sihanoukville in Cambodia.
-
-### Indonesia Tourist Spots
-Immerse yourself in the natural beauty and rich cultural heritage of Indonesia, home to lush rainforests, pristine beaches, and ancient temples such as Borobudur and Prambanan.
-
-### Vietnam Tourist Spots
-Journey through the breathtaking landscapes of Vietnam, from the emerald waters of Ha Long Bay to the bustling streets of Hanoi and the historic sites of Hue and Hoi An.
-
-### Malaysia Tourist Spots
-Experience the melting pot of cultures and landscapes in Malaysia, from the modern skyline of Kuala Lumpur to the tranquil tea plantations of Cameron Highlands and the idyllic beaches of Langkawi.
-
+### Steps
+1. Clone the repository:
+    ```sh
+    git clone client site https://github.com/juyel66/jr-bistro-house-client
+    ```
+    ```sh
+    git clone server site https://github.com/juyel66/jr-bistro-house-server
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd jr-bistro-house
+    ```
+3. Install NPM packages:
+    ```sh
+    npm install
+    ```
+4. Set up your environment variables. Create a `.env` file in the root directory and add the following:
+    ```env
+    MONGODB_URI=your_mongodb_connection_string
+    SECRET_KEY=your_secret_key
+    STRIPE_API_KEY=your_stripe_api_key
+    ```
+5. Start the application:
+    ```sh
+    npm start
+    ```
 
 
 
